@@ -4,4 +4,4 @@ For more information, please check Tuya Developer Website.
 参加涂鸦幻彩灯带-arduino开发实战营的作品，采用arduino uno驱动wa2812b灯带
 
 pcb图如下
-!涂鸦幻彩灯带转接(https://github.com/bikerNEW/TUYA_2812B/blob/main/pcb.png)
+![涂鸦幻彩灯带转接](https://github.com/bikerNEW/TUYA_2812B/blob/main/pcb.png)
